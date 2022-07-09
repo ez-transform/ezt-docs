@@ -1,0 +1,11 @@
+site_name: ezt-docs
+
+nav:
+  - Home: index.md
+  - Installation: pages/guide/installation.md
+  - Getting Started: pages/guide/getting_started.md
+
+theme:
+  name: material
+  palette:
+    scheme: slate
